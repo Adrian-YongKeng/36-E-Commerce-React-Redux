@@ -9,7 +9,7 @@ const items = [
     {id: 4, name:"iPad Air", description: "Ipad Air 12", price: "RM1000" ,},
     {id: 5, name:"iWatch", description: "Might be iWatch", price: "RM899"},
     {id: 6, name:"AirPods", description: "It's a pen", price: "RM399"},
-    {id: 7, name:"Apple Pencil", description: "It's a pencil", price: "RM300"},
+    {id: 7, name:"Apple Pencil", description: "It's a pencil", price: "RM299"},
     {id: 8, name:"Apple Tv", description: "It's a TV", price: "RM2999"},
 ];
 
